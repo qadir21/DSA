@@ -1,0 +1,11 @@
+[
+  {
+    "key": "cmd+shift+r",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Compile and Run C++ with Input/Output"
+  },
+  {
+    "key": "cmd+r",
+    "command": "workbench.action.tasks.build"
+  }
+]
